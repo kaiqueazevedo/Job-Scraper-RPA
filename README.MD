@@ -58,23 +58,7 @@ Gerando um ranking das melhores oportunidades com base em um **score de aderênc
 
 ---
 
-##  Estrutura do projeto
 
-projeto/
-|-- scrapers/
-|   |-- linkedin.py
-|   |-- indeed.py
-|   |-- glassdoor.py
-|   |-- infojobs.py
-|   `-- catho.py
-|-- logs/
-|-- output/
-|-- config.py
-|-- logger.py
-|-- scorer.py
-|-- utils.py
-`-- main.py
----
 
 ##  Como funciona
 
