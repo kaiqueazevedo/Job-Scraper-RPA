@@ -1,0 +1,49 @@
+python selenium rpa automacao automação robotic process automation automation scraping web scraping pyautogui uipath powerautomate
+
+backend desenvolvedor backend backend developer api apis rest restful flask fastapi django nodejs express integração sistemas system integration
+
+dados data data analysis data analytics analise dados processamento dados data processing etl data pipeline pipelines dados pandas numpy openpyxl excel csv json data transformation data cleaning
+
+sql mysql oracle postgresql banco dados database queries joins procedures views
+
+power bi powerbi dashboards business intelligence bi kpi indicadores relatorios reports
+
+oracle apex apex desenvolvimento web web development aplicações web sistemas internos low code
+
+javascript typescript html css bootstrap jquery react frontend fullstack
+
+automação testes automation testing qa testing selenium webdriver cypress jmeter performance test load test
+
+docker containers containerização devops ci cd integração continua continuous integration
+
+linux ubuntu bash shell script terminal linha comando
+
+cloud azure aws google cloud cloud computing
+
+git github versionamento version control gitflow
+
+logs logging monitoramento monitoring debugging troubleshooting exception handling tratamento erros
+
+captcha recaptcha captcha v2 automação captcha
+
+data science machine learning ml inteligência artificial ai
+
+processos operacionais workflow automação processos business process automação empresarial
+
+excel avançado excel formulas vba macros
+
+scrum agile kanban metodologia agil gestão projetos project management
+
+performance otimização performance scalability escalabilidade high performance
+
+segurança dados data security autenticação authentication authorization oauth jwt
+
+power bi dashboards kpi analise dados visualização dados data visualization
+
+oracle sql developer microsoft sql server management studio ssms
+
+react node express mongodb firebase jquery bootstrap electronjs
+
+flask django api rest api development api integration api consumption
+
+etl integração dados data integration data pipeline transformação dados limpeza dados
